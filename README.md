@@ -95,7 +95,8 @@ _"Optimizing cloud, one deployment at a time."_
 > 🔽 *Add screenshots below for better engagement:*
 
 ![Portfolio Screenshot](./screenshot-home.png)
-> *Homepage preview of my portfolio website*
+<img width="1903" height="836" alt="homepage" src="https://github.com/user-attachments/assets/e75680ec-2f2d-4278-9763-ce2ca7437737" />
+
 
 ---
 

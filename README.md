@@ -105,6 +105,6 @@ Let’s connect and discuss how we can collaborate or optimize your cloud system
 
 - 🌐 [LinkedIn](https://linkedin.com/in/anoop-t-m-367423228)
 - 💻 [GitHub](https://github.com/anooptm1999)
-- ✉️ Email: anooptm@example.com
+- ✉️ Email: anooptm1999@gmail.com
 
 ---

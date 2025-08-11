@@ -24,7 +24,6 @@ _"Optimizing cloud, one deployment at a time."_
 - 🛠️ **Infrastructure as Code (IaC)** using Terraform and Ansible
 - 🧰 Proficient in **AWS, Jenkins, Docker, Kubernetes**
 - 📈 Experience optimizing cloud performance and monitoring with CloudWatch
-- 📄 [Download Resume](https://anoop.dev/resume.pdf)
 
 ---
 
